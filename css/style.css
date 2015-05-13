@@ -16,7 +16,7 @@ html, body{
 }
 
 .anim-header .large-header {
-	background-image: url("../build/img/stars.jpeg");
+	background-image: url("../img/stars.jpeg");
 	background-position: center;
 	width:100%;
 }
